@@ -13,12 +13,13 @@ A fun and challenging 2D platform game built with Pygame Zero. Jump on enemies, 
 - 📱 Interactive menu system
 
 ## Screenshots
-s_menu](https://github.com/user-attachments/assets/28e41229-fb3d-40e8-a345-b0162529fb84)
-![platform_games_game_over](https://github.com/user-attachments/assets/cb0b14a5-2f4a-4cf2-ab79-f29b5720cbea)
-![platform_games_winner](https://github.com/user-attachments/assets/e747003e-a4a0-4194-a956-5a92bd4b3654)
+![platform_games_menu](https://github.com/user-attachments/assets/ce45977c-7c6f-4600-9fa6-5c5eaf5e5d08)
 
-![platform_game![platform_games](https://github.com/user-attachments/assets/c102cba8-ea84-4a47-9e4a-c60c98c3e421)
+![platform_games](https://github.com/user-attachments/assets/d3551bb0-13c9-4320-a3ea-84a31e0a4589)
 
+![platform_games_game_over](https://github.com/user-attachments/assets/3642f6a7-f96b-44c2-b0e5-bb10e982cd2f)
+
+![platform_games_winner](https://github.com/user-attachments/assets/06ba6475-6043-4346-8ff6-929e544a7cd8)
 
 
 ## Requirements
